@@ -4013,7 +4013,7 @@ body.welcome-page {
       rgba(0, 0, 0, 0.2),
       rgba(0, 0, 0, 0.2)
     ),
-    url("../images/welcome-background.png");
+    url(../images/welcome.png);
   background-position: center;
   background-repeat: none;
   background-size: cover;
