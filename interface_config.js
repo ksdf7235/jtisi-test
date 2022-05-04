@@ -27,8 +27,8 @@ var interfaceConfig = {
   CLOSE_PAGE_GUEST_HINT: false, // A html text to be shown to guests on the close page, false disables it
 
   DEFAULT_BACKGROUND: "#040404",
-  DEFAULT_LOGO_URL: "images/watermark.svg",
-  DEFAULT_WELCOME_PAGE_LOGO_URL: "images/watermark.svg",
+  DEFAULT_LOGO_URL: "images/watermark.png",
+  DEFAULT_WELCOME_PAGE_LOGO_URL: "images/watermark.png",
 
   DISABLE_DOMINANT_SPEAKER_INDICATOR: false,
 
@@ -87,7 +87,7 @@ var interfaceConfig = {
    */
   HIDE_INVITE_MORE_HEADER: false,
 
-  JITSI_WATERMARK_LINK: "https://dvision.daio.net",
+  JITSI_WATERMARK_LINK: "https://dvision.daios.net",
 
   LANG_DETECTION: true, // Allow i18n to detect the system language
   LIVE_STREAMING_HELP_LINK: "https://jitsi.org/live", // Documentation reference for the live streaming feature.
