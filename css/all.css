@@ -4225,7 +4225,7 @@ body.welcome-page {
   padding-top: 40px;
 }
 .welcome .welcome-card-row {
-  display: flex;
+  display: none;
   justify-content: center;
   padding: 0 32px;
 }
@@ -5524,7 +5524,6 @@ input[type="range"]::-ms-thumb {
   background: #000;
 }
 .meetings-list {
-  display: none;
   font-size: 14px;
   color: #253858;
   line-height: 20px;
@@ -5540,7 +5539,7 @@ input[type="range"]::-ms-thumb {
   text-align: center;
   align-items: center;
   justify-content: center;
-  display: none;
+  display: flex;
   flex-grow: 1;
   flex-direction: column;
 }
