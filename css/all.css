@@ -5524,6 +5524,7 @@ input[type="range"]::-ms-thumb {
   background: #000;
 }
 .meetings-list {
+  display: none;
   font-size: 14px;
   color: #253858;
   line-height: 20px;
