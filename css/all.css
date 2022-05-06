@@ -4008,6 +4008,7 @@ body.welcome-page {
   position: relative;
 }
 .welcome .header {
+  display: none;
   background-image: linear-gradient(
       0deg,
       rgba(0, 0, 0, 0.2),
@@ -7157,7 +7158,6 @@ input[type="range"]::-ms-thumb {
     width: 100%;
   }
   .welcome .header {
-    display: none;
     background-color: #002637;
   }
   .welcome .header #enter_room .enter-room-input-container {
